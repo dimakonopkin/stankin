@@ -1,0 +1,47 @@
+.h2 {
+    text-align: center;
+}
+
+.readmeplz {
+    text-align: center !important;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.allCard {
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    width: 350px;
+    height: 700px;
+    position: relative;
+    margin: auto;
+}
+
+.informationCard p {
+    border-top: 2px;
+    border-left: 2px;
+    border-right: 2px;
+    border-bottom: 2px;
+    border-style: ridge;
+
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+
+    position: relative;
+}
+
+.jipeg {
+    margin-left: 25px;
+    margin-right: 15px;
+    margin-top: 25px;
+}
+
+.positionJipeg {
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
