@@ -1,0 +1,9 @@
+﻿  Render.cpp
+C:\Users\wowdi\Desktop\Lab3\Lab3\OpenGLrememberProj\Render.cpp(161,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\wowdi\Desktop\Lab3\Lab3\OpenGLrememberProj\Render.cpp(161,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\wowdi\Desktop\Lab3\Lab3\OpenGLrememberProj\Render.cpp(161,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\wowdi\Desktop\Lab3\Lab3\OpenGLrememberProj\Render.cpp(606,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\wowdi\Desktop\Lab3\Lab3\OpenGLrememberProj\Render.cpp(607,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\wowdi\Desktop\Lab3\Lab3\OpenGLrememberProj\Render.cpp(382): warning C4172: возвращение адреса локальной или временной переменной : VectorNormal
+C:\Users\wowdi\Desktop\Lab3\Lab3\OpenGLrememberProj\Render.cpp(411): warning C4172: возвращение адреса локальной или временной переменной : VectorNormal
+  OpenGLrememberProj.vcxproj -> C:\Users\wowdi\Desktop\Lab3\Lab3\Debug\OpenGLrememberProj.exe
