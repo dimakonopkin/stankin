@@ -1,0 +1,5 @@
+﻿  Render.cpp
+C:\Users\wowdi\Desktop\ИРИШКА\Курсовая КГ\OpenGLrememberProj\Render.cpp(188,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\wowdi\Desktop\ИРИШКА\Курсовая КГ\OpenGLrememberProj\Render.cpp(188,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\wowdi\Desktop\ИРИШКА\Курсовая КГ\OpenGLrememberProj\Render.cpp(188,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  OpenGLrememberProj.vcxproj -> C:\Users\wowdi\Desktop\ИРИШКА\Курсовая КГ\Debug\OpenGLrememberProj.exe
